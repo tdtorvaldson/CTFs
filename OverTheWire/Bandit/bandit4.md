@@ -1,3 +1,5 @@
+## Solution
+
 ``` Shell
 bandit4@bandit:~$ ls
 inhere
@@ -19,5 +21,5 @@ bandit4@bandit:~/inhere$ file ./-*
 bandit4@bandit:~/inhere$ cat ./-file07
 ```
 
-Key:
+>key = 
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh

@@ -1,6 +1,8 @@
+## Solution
+
 ``` Shell
 bandit2@bandit:~$ cat "spaces in this filename"
 ```
 
-Key:
+> key:
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
