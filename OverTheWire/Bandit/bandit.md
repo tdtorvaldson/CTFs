@@ -1,8 +1,0 @@
-## Solution
-
-``` Shell
-
-```
-
->key = 
-
